@@ -12,7 +12,8 @@ El proyecto se desarrollo usando la metdología ágil que consiste en dividir la
 3. Business Model Canvas
 4. Datos crudos
 5. Pipeline de limpieza de datos
-   5.1. Dataset limpio exportado
+5.1. Dataset limpio exportado
+   
 ### Sprint 2:
 
 6. Modelos baseline y decisión de mejor modelo
