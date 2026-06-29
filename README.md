@@ -9,7 +9,7 @@ El proyecto se desarrollo usando la metdología ágil que consiste en dividir la
 ### Sprint 1:
 1. Obtención de datos y documentación de la fuente
 2. Diccionario de datos con la información de cada una de las columnas
-3. Dataset con los datos en crudo
+3. Business Model Canvas
 4. Pipeline de limpieza documentado con el respectivo Exploratory Data Analysis
 5. Dataset limpio exportado
 
@@ -20,8 +20,8 @@ El proyecto se desarrollo usando la metdología ágil que consiste en dividir la
 8. Model Card completo
 9. Checklist ético y LOPDP
 10. Decision Log actualizado
-11. Dashboard de reporte
-12. Documentos Integrador
+11. Dashboard de reporte: https://app.powerbi.com/groups/me/reports/02eea772-082d-47d1-87a9-7c11f79f3501/cae347f555f7fcbaf6b6?ctid=54474fb3-6359-40c1-b726-5d56a7dd2976&experience=power-bi
+12. Documento Integrador
 
 ## Roles/profesionales involucrados
 
