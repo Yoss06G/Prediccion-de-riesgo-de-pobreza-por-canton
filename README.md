@@ -15,6 +15,22 @@ El proyecto se desarrollo usando la metdología ágil que consiste en dividir la
 
 ### Sprint 2:
 
+6. Modelos baseline y decisión de mejor modelo
+7. Evaluación dual completa
+8. Model Card completo
+9. Checklist ético y LOPDP
+10. Decision Log actualizado
+11. Dashboard de reporte
+12. Documentos Integrador
+
+## Roles/profesionales involucrados
+
+* Data Engineer
+* Data Analyst
+* Data Scientist
+* Machine Learning Engineer
+* Data Steward
+  
 ## Descripción del Proyecto
 Ecuador carece actualmente de métricas cantonales de riesgo socioeconómico entre censos, lo que dificulta la toma de decisiones basada en datos con horizonte predictivo. Este sistema utiliza registros administrativos oficiales (2019-2024) para proyectar el riesgo a 2025-2026.
 
