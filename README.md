@@ -47,7 +47,3 @@ Ecuador carece actualmente de métricas cantonales de riesgo socioeconómico ent
     *   🔴 `IRL ≤ 0`: Intervención Prioritaria
     *   🟡 `IRL ≈ 0`: Monitoreo
     *   🟢 `IRL > 0`: Resiliente
-
-── docs/               # Model Card, Decision Log y Checklist LOPDP
-├── src/                # Scripts de automatización y funciones auxiliares
-└── README
