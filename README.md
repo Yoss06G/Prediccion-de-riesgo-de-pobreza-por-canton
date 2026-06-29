@@ -25,11 +25,11 @@ El proyecto se desarrollo usando la metdología ágil que consiste en dividir la
 
 ## Roles/profesionales involucrados
 
-* Data Engineer
-* Data Analyst
-* Data Scientist
-* Machine Learning Engineer
-* Data Steward
+* Data Engineer - Kevin Delgado
+* Data Analyst - Evelyn Oña
+* Data Scientist - Yoslava Garófalo
+* Machine Learning Engineer - Juan Ramos
+* Data Steward - Alisson Manosalvas
   
 ## Descripción del Proyecto
 Ecuador carece actualmente de métricas cantonales de riesgo socioeconómico entre censos, lo que dificulta la toma de decisiones basada en datos con horizonte predictivo. Este sistema utiliza registros administrativos oficiales (2019-2024) para proyectar el riesgo a 2025-2026.
